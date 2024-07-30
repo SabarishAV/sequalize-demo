@@ -1,0 +1,5 @@
+### Environment Variables
+
+DATABASE_NAME <br>
+DATABASE_USERNAME<br>
+DATABASE_PASSWORD
